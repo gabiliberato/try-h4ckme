@@ -1,0 +1,24 @@
+In the Burp Suite Program that ships with Kali Linux, what mode would you use to manually send a request (often repeating a captured request numerous times)?
+Repeater
+
+Reference:https://portswigger.net/burp/documentation/desktop/tools/repeater/using
+
+What hash format are modern Windows login passwords stored in?
+NTLM
+
+Reference: https://ab-lumos.medium.com/introduction-to-hashing-and-how-to-retrieve-windows-10-password-hashes-9c8637decaef
+
+What are automated tasks called in Linux?
+cron jobs
+
+Reference: https://www.linuxtechi.com/schedule-automate-tasks-linux-cron-jobs/#:~:text=Such%20tasks%20in%20linux%20are,carried%20out%20at%20specified%20intervals.
+
+What number base could you use as a shorthand for base 2 (binary)?
+base 16 
+
+Reference: https://practicalee.com/binary/#:~:text=Binary%20is%20base%202%20and,0-9%20followed%20by%20A-F.
+
+If a password hash starts with $6$, what format is it (Unix variant)?
+SHA512crypt
+
+Reference: https://www.open.com.au/radiator/ref/User-Password.html#:~:text=Passwords%20starting%20with%20“%245%24”,or%20SHA512%20password%20hashing%2C%20respectively.
