@@ -1,0 +1,24 @@
+This challenge is pretty simple. The binary is checking to see if the environment variable "test1234" exists, and if it's set equal to the current $USER environment variable.
+
+export test1234=$USER
+./shiba2
+happynootnoises
+
+
+
+find /* | grep shiba4.
+achado: 
+/etc/shiba/shiba4
+/opt/secret/shiba4
+
+/opt/secret/shiba4
+test1234
+
+cd /opt/secret/shiba4
+./shiba4
+test1234
+
+
+sudo -u jen whoami
+
+
